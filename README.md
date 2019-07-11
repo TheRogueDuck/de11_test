@@ -3,10 +3,10 @@ this is a test
 
 ## This is a smaller heading 
 
-* this is bold*
+*this is bold*
 
 _this is italic_
 
-^this is probably something else^
+^look at these hats^
 
 yay symbols
